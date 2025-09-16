@@ -9,5 +9,6 @@ Student at UNA
 
 
 
-#Wireframe
-<img width="737" height="509" alt="homePage-wireFrame" src="https://github.com/user-attachments/assets/52e22332-29b1-40a1-a9b2-ba50364c3abd" />
+Wireframe
+
+<img width="637" height="400" alt="homePage-wireFrame" src="https://github.com/user-attachments/assets/52e22332-29b1-40a1-a9b2-ba50364c3abd" />
