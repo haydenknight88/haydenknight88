@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Topic Progress",
+    "description": "This is my progression in each topic on Codeacademy",
+    "image": "images/topic-progress.png"
+  },
+  {
+    "name": "Badges Earned",
+    "description": "These are the badges I earned while on Codeacademy. This includes my two most recent badges but shows that I have earned 126 in all.",
+    "image": "images/codeacademy-badges.png"
+  }
+]

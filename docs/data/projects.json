@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Project Bravo",
+        "description": "Emoji Clicker Game: See how high you can score by clicking the emoji!",
+        "image": "images/project-bravo.png",
+        "link": "https://haydenknight88.github.io/knight-project-bravo/"
+    },
+    {
+        "title": "Project Charlie",
+        "description": "Choose your favorite game created by my classmates!",
+        "image": "images/project-charlie.png",
+        "link": "https://znasser46.github.io/project-charile/"
+    },
+    {
+        "title": "Project Delta",
+        "description": "My recreation of a bad U.S. State UI!",
+        "image": "images/project-delta.png",
+        "link": "https://haydenknight88.github.io/musical-funicular-delta/"
+    }
+]
